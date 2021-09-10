@@ -23,7 +23,7 @@ pipeline {
     	}
 }
 
-3. Create a pipeling item in Jenkins and select pipeline as Pipeline script from SCM, add the Git repository URL.
+3. Create a pipeline item in Jenkins and select pipeline as Pipeline script from SCM, add the Git repository URL.
 
 4. Build the pipeline job and view the console output.
 
